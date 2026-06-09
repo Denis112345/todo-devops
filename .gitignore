@@ -1,0 +1,3 @@
+# Helm values with secrets
+**/values*.yaml
+!**/values-example.yaml
